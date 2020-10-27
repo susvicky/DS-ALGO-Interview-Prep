@@ -1,4 +1,5 @@
 # DS-ALGO-Interview-Prep
-All code are written in C++.
+
 All important DS ALGO codes for interview preperation.
-For difficult questions, link to their video explanations have been included in their code.
+Question link has been provided within the code/pseudocode.
+All code are written in C++.
